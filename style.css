@@ -1,0 +1,49 @@
+.container {
+    border: 2px solid black;
+    max-width: 500px;
+    margin: auto;
+}
+
+.div-align {
+    /*border: 2px solid black;
+    max-width: 500px;
+    margin: auto;*/
+    max-width: 500px;
+    margin: 20px;
+    /* margin-left: 141px; */
+    text-align: left;
+}
+
+.devel {
+    background-color: deeppink;
+    height: 80px;
+    width: 363px;
+    padding: 3px 10px;
+    font-size: xx-large;
+}
+
+.dev-edit {
+    font-size: xxx-large;
+    color: white;
+    font-weight: 800;
+}
+
+.span-edit {
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 700;
+    color: white;
+}
+
+.text {
+    margin-top: -12px;
+    padding-left: 77px;
+}
+
+li.usa ul li a:hover {
+    background-color: gold;
+}
+
+li.world ul li a:hover {
+    background-color: hotpink;
+}
